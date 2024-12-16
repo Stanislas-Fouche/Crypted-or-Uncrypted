@@ -1,0 +1,5 @@
+*.log
+/dataset/aesCryptedNoExt
+/dataset/cipher
+/dataset/encrypted
+homemade methods/convert.py

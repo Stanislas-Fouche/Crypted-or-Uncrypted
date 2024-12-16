@@ -1,0 +1,21 @@
+dataset :
+
+- 27 fichiers csv
+- 49 fichiers txt 
+- 40 fichiers jpg
+- 40 fichiers png
+- 40 fichiers pdf
+
+
+
+
+
+
+Sources :
+
+- NBA Play-by-Play Data (1997-2023)  -  https://www.kaggle.com/datasets/szymonjwiak/nba-play-by-play-data-1997-2023?select=pbp2001.csv - CC - 
+- Song Lyrics -  https://www.kaggle.com/datasets/paultimothymooney/poetry  - CC0: Public Domain -
+- https://www.kaggle.com/datasets/davidbroberts/hubmap-hpa-jpg?select=10912.jpg - CC0: Public Domain -
+- https://www.kaggle.com/datasets/vivekp7039/figshare-brain-tumor-dataset-converted-to-png - CC 
+- Pfizer documents -https://www.kaggle.com/datasets/konradb/pfizer-documents - CC 
+
